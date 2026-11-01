@@ -104,7 +104,7 @@ Edge TTS 朗读（原声）→ 本机 RVC 推理服务（rvc-server.py）→ 转
 ### 通用说明
 
 - `<你的RVC目录>` = RVC WebUI 根目录（含 `runtime`/`assets`/`logs`）；`<rvc-server.py的路径>` = rvc-server.py
-  文件所在位置（插件源码目录，或从 GitHub 仓库 `1624318455/dsh-plugin-tts` 下载，**不在** node_modules 里）；
+  文件所在位置（插件源码目录，或从 GitHub 仓库 `c048J1/dsh-plugin-tts` 下载，**不在** node_modules 里）；
 - 想要"启动即预载某个音色"再额外加（路径分隔符按系统使用 `/` 或 `\`）：
   `--model "<RVC目录>/assets/weights/xxx.pth" --index "<RVC目录>/logs/xxx.index"`；
 - 换模型：直接在设置面板「浏览」里选（无需重启服务）；提示端口被占用（Windows `[Errno 10048]` /

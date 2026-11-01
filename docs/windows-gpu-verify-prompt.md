@@ -37,7 +37,7 @@ HTTP 协议（JSON + base64，无额外依赖）：
 # 步骤 1：获取被测代码
 
 ```powershell
-git clone https://github.com/1624318455/dsh-plugin-tts.git C:\dsh-plugin-tts
+git clone https://github.com/c048J1/dsh-plugin-tts.git C:\dsh-plugin-tts
 cd C:\dsh-plugin-tts
 $env:DSH_RVC = "E:\AI\RVC20240604Nvidia\RVC20240604Nvidia"   # 指向你的 RVC WebUI 根目录，下面都用这个变量
 ```

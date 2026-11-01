@@ -138,7 +138,7 @@ python -c "import torch, fairseq, faiss, numpy, librosa; from fairseq import che
 # 步骤 4：获取被测代码并启动服务
 
 ```bash
-git clone https://github.com/1624318455/dsh-plugin-tts.git ~/dsh-plugin-tts
+git clone https://github.com/c048J1/dsh-plugin-tts.git ~/dsh-plugin-tts
 cp ~/dsh-plugin-tts/rvc-server.py ~/rvc-work/
 cp ~/dsh-plugin-tts/tools/mac-verify.sh ~/rvc-work/
 

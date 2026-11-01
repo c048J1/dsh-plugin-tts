@@ -9,13 +9,13 @@
   <a href="https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"><img src="https://awesome-dsh-plugin.com/badge.svg" alt="Awesome"></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node-22%2B-blue" alt="node"></a>
   <a href="tests/smoke.mjs"><img src="https://img.shields.io/badge/tests-133%20passed-success" alt="tests"></a>
-  <a href="https://github.com/1624318455/dsh-plugin-tts"><img src="https://img.shields.io/github/stars/1624318455/dsh-plugin-tts" alt="stars"></a>
-  <a href="https://github.com/1624318455/dsh-plugin-tts/commits/main"><img src="https://img.shields.io/github/last-commit/1624318455/dsh-plugin-tts" alt="last commit"></a>
+  <a href="https://github.com/c048J1/dsh-plugin-tts"><img src="https://img.shields.io/github/stars/c048J1/dsh-plugin-tts" alt="stars"></a>
+  <a href="https://github.com/c048J1/dsh-plugin-tts/commits/main"><img src="https://img.shields.io/github/last-commit/c048J1/dsh-plugin-tts" alt="last commit"></a>
 </p>
 
 > **本地复刻版修改说明（v0.6.9）**
 >
-> 本目录是 [dsh-plugin-tts](https://github.com/1624318455/dsh-plugin-tts) 的本地复刻版，在原版基础上做了 6 处修改：
+> 本目录是 [dsh-plugin-tts](https://github.com/1624318455/dsh-plugin-tts)（原作者 1624318455）的本地复刻版，在原版基础上做了 6 处修改：
 >
 > 1. **移除"自动朗读"胶囊按钮**：聊天页 / 绘画页输入区不再显示该按钮（原按钮在两个页面都会出现）。自动朗读**功能完整保留**，开关移到了 **语音设置面板 → 自动朗读** 复选框。
 > 2. **朗读横条改为可拖动悬浮球**：屏幕边缘的"朗读中"横条换成 52px 圆形悬浮球——灰色=空闲，红色=朗读中（带呼吸光圈），暂停时显示播放图标；**拖动**移动位置（自动记忆），**单击**暂停/继续，**双击**完全停止，默认开启（设置面板可关）。

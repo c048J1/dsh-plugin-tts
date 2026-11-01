@@ -9,8 +9,8 @@
   <a href="https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"><img src="https://awesome-dsh-plugin.com/badge.svg" alt="Awesome"></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node-22%2B-blue" alt="node"></a>
   <a href="tests/smoke.mjs"><img src="https://img.shields.io/badge/tests-133%20passed-success" alt="tests"></a>
-  <a href="https://github.com/1624318455/dsh-plugin-tts"><img src="https://img.shields.io/github/stars/1624318455/dsh-plugin-tts" alt="stars"></a>
-  <a href="https://github.com/1624318455/dsh-plugin-tts/commits/main"><img src="https://img.shields.io/github/last-commit/1624318455/dsh-plugin-tts" alt="last commit"></a>
+  <a href="https://github.com/c048J1/dsh-plugin-tts"><img src="https://img.shields.io/github/stars/c048J1/dsh-plugin-tts" alt="stars"></a>
+  <a href="https://github.com/c048J1/dsh-plugin-tts/commits/main"><img src="https://img.shields.io/github/last-commit/c048J1/dsh-plugin-tts" alt="last commit"></a>
 </p>
 
 ## Links
